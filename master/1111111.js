@@ -8,14 +8,14 @@ $("#rightpane").after(
 '<p class="fa fa-angle-right"></p>' +
 '</div>' +
 '<div class="scroll-images scrollable-x">' +
-'<a href="https://www.woodstockfestival.pl"><img src="//i.imgur.com/Q0FKCbD.jpg" class="kek" /></a>' +
-'<a href="kreciola.tv"><img src="//i.imgur.com/hJiWzS7.png" class="kek" /></a>' +
-'<a href="https://www.facebook.com/PrzystanekWoodstock"><img src="//i.imgur.com/vldmy2d.png" class="kek" /></a>' +
-'<a href="https://www.youtube.com/user/Owsiaknet"><img src="//i.imgur.com/BAtXGNU.jpg" class="kek" /></a>' +
-'<a href="https://www.facebook.com/kreciola"><img src="//i.imgur.com/YObDgQC.png" class="kek" /></a>' +
-'<a href="https://twitter.com/woodstockpoland?lang=pl"><img src="//i.imgur.com/YOS52BW.png" class="kek" /></a>' +
-'<a href="https://www.instagram.com/woodstockpoland/?hl=pl"><img src="//i.imgur.com/L2SxqcD.png" class="kek" /></a>' +
-'<a href="http://siemashop.pl/"><img src="//i.imgur.com/pS0lJ9W.png" class="kek" /></a>' +
+'<a href="https://www.woodstockfestival.pl"><img src="//i.imgur.com/X5sR1ye.png?2" class="kek" /></a>' +
+'<a href="kreciola.tv"><img src="//i.imgur.com/cVmcvdd.png" class="kek" /></a>' +
+'<a href="https://www.facebook.com/PrzystanekWoodstock"><img src="//i.imgur.com/PSw40Dg.png" class="kek" /></a>' +
+'<a href="https://www.youtube.com/user/Owsiaknet"><img src="//i.imgur.com/EywIasT.png" class="kek" /></a>' +
+'<a href="https://www.facebook.com/kreciola"><img src="//i.imgur.com/o6ieE6h.jpg" class="kek" /></a>' +
+'<a href="https://twitter.com/woodstockpoland?lang=pl"><img src="//i.imgur.com/xlEOH1R.png" class="kek" /></a>' +
+'<a href="https://www.instagram.com/woodstockpoland/?hl=pl"><img src="//i.imgur.com/ByiS5Az.png" class="kek" /></a>' +
+'<a href="http://siemashop.pl/"><img src="//i.imgur.com/QGwGVTF.jpg" class="kek" /></a>' +
 '</div></div></div>');
 // The HorizontalScroller Class accepts a jQuery object as its only argument
 // The argument is the parent container of the scrolling element

@@ -11,7 +11,7 @@ $("#rightpane").after(
 '<a href="https://www.woodstockfestival.pl"><img src="//i.imgur.com/Q0FKCbD.jpg" class="kek" /></a>' +
 '<a href="kreciola.tv"><img src="//i.imgur.com/hJiWzS7.png" class="kek" /></a>' +
 '<a href="https://www.facebook.com/PrzystanekWoodstock"><img src="//i.imgur.com/vldmy2d.png" class="kek" /></a>' +
-'<a href="https://cytu.be/r/SakuraGakuin"><img src="//i.imgur.com/BAtXGNU.jpg" class="kek" /></a>' +
+'<a href="https://www.youtube.com/user/Owsiaknet"><img src="//i.imgur.com/BAtXGNU.jpg" class="kek" /></a>' +
 '<a href="https://reddit.com/r/BABYMETAL"><img src="//i.imgur.com/YObDgQC.png" class="kek" /></a>' +
 '<a href="https://cytu.be/r/Perfume"><img src="//i.imgur.com/YOS52BW.png" class="kek" /></a>' +
 '<a href="https://cytu.be/r/X-Japan"><img src="//i.imgur.com/L2SxqcD.png" class="kek" /></a>' +

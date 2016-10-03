@@ -118,7 +118,7 @@ $("#ploptions").append($("#shuffleplaylist"), $("#clearplaylist"), $("#getplayli
 $("#pldropdown").before($("#qlockbtn"));
 //channels
 
-$.getScript("//rawgit.com/mariando/CYTUBE_WOOD/master/master/channels.js");
+$.getScript("//");
 $.getScript("//rawgit.com/mariando/CYTUBE_WOOD/master/master/overlay.js");
 
 $('#queuecontainer').hover(function(){

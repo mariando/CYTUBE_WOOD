@@ -119,7 +119,7 @@ $("#pldropdown").before($("#qlockbtn"));
 //channels
 
 $.getScript("//rawgit.com/mariando/CYTUBE_WOOD/master/master/channels.js");
-$.getScript("//rawgit.com/sawwashere/CYTUBE-BABYMETAL/master/overlay.js");
+$.getScript("//rawgit.com/mariando/CYTUBE_WOOD/master/master/overlay.js");
 
 $('#queuecontainer').hover(function(){
     $('#pllength').css({

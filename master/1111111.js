@@ -15,7 +15,7 @@ $("#rightpane").after(
 '<a href="https://www.facebook.com/kreciola"><img src="//i.imgur.com/YObDgQC.png" class="kek" /></a>' +
 '<a href="https://twitter.com/woodstockpoland?lang=pl"><img src="//i.imgur.com/YOS52BW.png" class="kek" /></a>' +
 '<a href="https://www.instagram.com/woodstockpoland/?hl=pl"><img src="//i.imgur.com/L2SxqcD.png" class="kek" /></a>' +
-'<a href="http://taima.tv/r/BABYMETAL"><img src="//i.imgur.com/pS0lJ9W.png" class="kek" /></a>' +
+'<a href="http://siemashop.pl/"><img src="//i.imgur.com/pS0lJ9W.png" class="kek" /></a>' +
 '</div></div></div>');
 // The HorizontalScroller Class accepts a jQuery object as its only argument
 // The argument is the parent container of the scrolling element
